@@ -8,8 +8,11 @@
     "classnames": "^2.2.6",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-redux": "^8.0.2",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
     "uuid": "^3.3.2"
   },
   "scripts": {
@@ -33,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/7daytheory/contact-redux/issues"
   },
-  "homepage": "https://github.com/7daytheory/contact-redux#readme"
+  "homepage": "https://github.com/7daytheory/contact-redux#readme",
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
+  }
 }
